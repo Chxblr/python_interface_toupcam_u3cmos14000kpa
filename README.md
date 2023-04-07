@@ -1,5 +1,7 @@
 # python_interface_toupcam_u3cmos14000kpa
 
+# YOU NEED AN APPROPRIATE CAMERA!!!!!!!
+
 This is the interface for connecting the camera toupcam u3cmos14000kpa written in python (powered by PyQt 5)
 
 # Getting Started with Create Python App
